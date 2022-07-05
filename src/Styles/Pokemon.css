@@ -1,0 +1,9 @@
+.pokemon-card{
+    padding:1em;
+    border:.1rem solid black;
+    display:inline-block;
+    border-radius: .3em;
+}
+.title{
+    text-align: center;
+}

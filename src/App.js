@@ -5,7 +5,7 @@ import Team from "./Components/Team";
 
 function App() {
   // Array of pokemons selected
-  const [team, setTeam] = useState(['Hi'])
+  const [team, setTeam] = useState([])
 
   return (
     <div className="App">
