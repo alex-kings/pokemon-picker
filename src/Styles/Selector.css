@@ -1,5 +1,18 @@
 .selector{
-    background-color: rgb(26, 12, 0);
-    color: white;
-    display:flex
+    background-color: var(--main-bg-color);
+    color: var(--light);
+    display:flex;
+    padding:1em;
 }
+
+.input{
+    padding:1em;
+    display:inline;
+}
+
+.input-container{
+    display: flex;
+    gap:.3em;
+    font-size: 1rem;
+}
+

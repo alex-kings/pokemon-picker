@@ -1,6 +1,6 @@
 .pokemon-card{
     padding:1em;
-    border:.1rem solid black;
+    border:.1rem solid var(--main-bg-color);
     display:inline-block;
     border-radius: .3em;
 }

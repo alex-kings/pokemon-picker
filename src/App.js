@@ -9,8 +9,9 @@ function App() {
 
   return (
     <div className="App">
-      <Selector setTeam={setTeam}/>
+      
       <Team team={team}/>
+      <Selector setTeam={setTeam}/>
     </div>
   );
 }
