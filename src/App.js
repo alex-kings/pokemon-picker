@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="App">
-      
+      {console.log(team)}
       <Team team={team}/>
       <Selector setTeam={setTeam}/>
     </div>

@@ -1,18 +1,7 @@
 .selector{
-    background-color: var(--main-bg-color);
-    color: var(--light);
     display:flex;
-    padding:1em;
-}
-
-.input{
-    padding:1em;
-    display:inline;
-}
-
-.input-container{
-    display: flex;
-    gap:.3em;
-    font-size: 1rem;
+    align-items: center;
+    justify-content: center;
+    height: 20%;
 }
 
